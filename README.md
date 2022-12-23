@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamesbr00k
-- 👀 I’m interested in iphone,ipad,mac and apple watch apps with xcode and swift
+- 👀 I’m interested in iphone,ipad,mac and apple watch apps built with swift
 - 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I would love any learning opportunities
 - 📫 How to reach me discord @boomboomct#6674
 
 <!---
