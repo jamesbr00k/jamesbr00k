@@ -16,9 +16,9 @@ Welcome to my personal GitHub space! I'm the founder, lead developer, and graphi
 
 Here are a few projects that showcase my abilities:
 
-- **Custom CRM Platform**: Designed and developed a bespoke CRM for one of our brand partner @justpaperbags to manage their online presence efficiently.
+- **Custom CRM Platform**: Designed and developed a bespoke CRM for one of our brand partner @Justpaperbags to manage their online presence efficiently.
 - **E-commerce Website**: Crafted a complete e-commerce solution, enhancing user experience and backend functionality for small retailers.
-- **Photography Portfolio**: A clean yet well built collection of my photos.
+- **Photography Portfolio**: A clean yet well built collection of my photos. 
 
 ## Skills
 
