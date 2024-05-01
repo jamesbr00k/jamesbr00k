@@ -16,19 +16,19 @@ Welcome to my personal GitHub space! I'm the founder, lead developer, and graphi
 
 Here are a few projects that showcase my abilities:
 
-- **Custom CMS Platform**: Designed and developed a bespoke CMS for local businesses to manage their online presence efficiently.
+- **Custom CRM Platform**: Designed and developed a bespoke CRM for one of our brand partner @justpaperbags to manage their online presence efficiently.
 - **E-commerce Website**: Crafted a complete e-commerce solution, enhancing user experience and backend functionality for small retailers.
-- **Photography Portfolio**: A dynamic website displaying my photography work, built with a focus on aesthetics and responsiveness.
+- **Photography Portfolio**: A clean yet well built collection of my photos.
 
 ## Skills
 
-- **Programming Languages**: JavaScript, Swift, C# Python,
+- **Programming Languages**: JavaScript, Swift, C#, Python
 - **Frameworks**: React, Node.js, Laravel
-- **Tools**: Git, Firebase, full adobe suite, AutoCad Fusion, 2d Design
+- **Tools**: Git, Firebase, Full Adobe Suite, AutoCAD Fusion, 2D Design
 - **Design**: Adobe Creative Suite, Sketch
 
 Feel free to explore my repositories and get in touch if you're interested in collaborating on a project or just want to say hi!
-### currently hiring!
-want to work at jamesBrk? get in touch to see if your the right fit for our team!
-(part time graphic designers & backend programmers should definitly get in touch)
 
+### Currently Hiring!
+Want to work at @JamesBrk-org? Get in touch to see if you're the right fit for our team! 
+(Part-time graphic designers & backend programmers should definitely get in touch)
